@@ -1,0 +1,15 @@
+You: hello
+Bot: Hey!
+
+You: hello
+Bot: Yo!
+
+You: ai
+Bot: AI is cool! You can build a chatbot like me 
+
+You: computer science
+Bot: Hmm... I don't know about that yet.
+
+You: bye
+Bot: See you!
+
